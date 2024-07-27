@@ -1,16 +1,25 @@
-## Hi there 👋
+## 🙋🏻‍♀️ Introduction
 
-<!--
-**HarryAricibasi/HarryAricibasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
 
-Here are some ideas to get you started:
+Hello, my name is Harry Aricibasi. I develop machine learning-based automated systems to solve problems in bioinformatics and biotechnology. I am especially passionate about using data science to improve precision livestock farming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Analyze and visualize data
+- Create custom machine learning models
+- Work with and present to stakeholders
+- Engineer user-friendly applications and dashboards
+
+### 📚 Projects
+
+Welcome to my portfolio, where I present my [projects]().
+
+### 🛠️ Tools
+
+- Languages: Python, SQL
+- Libraries: Pandas, Tensorflow, Keras, OpenCV, MatPlotLib, scikit-learn, seaborn
+- Visualization: PowerBI, Tableau
+- Other: Git, SCRUM
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/harry-aricibasi-12a168133/)
