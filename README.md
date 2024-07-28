@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Introduction
+## 🦈 Introduction
 
 ![harryaricibasibanner](https://github.com/HarryAricibasi/HarryAricibasi/blob/4bb4ac3d631b9e2b9bd81c20e9a4dae24fa94c64/harryaricibasibannerv1)
 
@@ -20,6 +20,11 @@ Welcome to my portfolio, where I present my [projects]().
 - Visualization: PowerBI, Tableau
 - Other: Git, SCRUM
 
-### 👋🏻 Connect with Me
+### 🎓 Education
+
+- Honours Bachelor of Science, Biomedical Science and Biotechnology @ University of Guelph
+- Master of Science, Animal Biosciences @ Centre for the Genetic Improvement of Livestock, University of Guelph
+
+### 🤝🏼 Connect
 
 - [Linkedin](https://www.linkedin.com/in/harry-aricibasi-12a168133/)
