@@ -1,4 +1,4 @@
-## 🦈 Introduction
+## 👋🏼 Introduction
 
 ![harryaricibasibanner](https://github.com/HarryAricibasi/HarryAricibasi/blob/4bb4ac3d631b9e2b9bd81c20e9a4dae24fa94c64/harryaricibasibannerv1)
 
