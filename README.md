@@ -2,8 +2,7 @@
 
 ![harryaricibasibanner](https://github.com/HarryAricibasi/HarryAricibasi/blob/4bb4ac3d631b9e2b9bd81c20e9a4dae24fa94c64/harryaricibasibannerv1)
 
-Hello, my name is Harry Aricibasi. I develop machine learning-based automated systems to solve problems in bioinformatics and biotechnology. 
-I am especially passionate about using data science to improve precision livestock farming.
+Hello, my name is Harry Aricibasi. I develop machine learning-based automated systems to solve problems in bioinformatics and biotechnology. I am especially passionate about using data science to improve precision livestock farming.
 
 - Analyze and visualize data
 - Create custom machine learning models
@@ -16,8 +15,7 @@ Overview of my portfolio, where I showcase my [projects](https://github.com/Harr
 
 ### 📝 Papers
 
-- A computer vision image differential approach for automatic detection of aggressive behavior in pigs using deep learning:
-  https://doi.org/10.1093/jas/skad347 
+- [A computer vision image differential approach for automatic detection of aggressive behavior in pigs using deep learning](https://doi.org/10.1093/jas/skad347)
 
 ### 🛠️ Tools
 
