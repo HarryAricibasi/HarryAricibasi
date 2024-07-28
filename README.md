@@ -15,7 +15,8 @@ Overview of my portfolio, where I showcase my [projects](https://github.com/Harr
 
 ### 📝 Papers
 
-- A computer vision image differential approach for automatic detection of aggressive behavior in pigs using deep learning: https://doi.org/10.1093/jas/skad347 
+- A computer vision image differential approach for automatic detection of aggressive behavior in pigs using deep learning:
+  https://doi.org/10.1093/jas/skad347 
 
 ### 🛠️ Tools
 
