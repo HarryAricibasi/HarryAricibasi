@@ -31,4 +31,4 @@ Overview of my portfolio, where I showcase my [projects](https://github.com/Harr
 
 ### 🤝🏼 Connect
 
-- [Linkedin](https://www.linkedin.com/in/harry-aricibasi-12a168133/)
+- [Linkedin](https://www.linkedin.com/in/harryaricibasi)
