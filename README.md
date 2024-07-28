@@ -11,7 +11,11 @@ Hello, my name is Harry Aricibasi. I develop machine learning-based automated sy
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I present my [projects]().
+Overview of my portfolio, where I showcase my [projects](https://github.com/HarryAricibasi/HarryAricibasi/blob/main/Portfolio.md).
+
+### 📝 Papers
+
+- A computer vision image differential approach for automatic detection of aggressive behavior in pigs using deep learning: https://doi.org/10.1093/jas/skad347 
 
 ### 🛠️ Tools
 
