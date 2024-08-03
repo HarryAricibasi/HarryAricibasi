@@ -1,6 +1,6 @@
 # 🧠 Harry's Portfolio
 
-An overview of my data sciences projects in the biological domain. My current area of interest and specialization is Precision Livestock Farming.
+An overview of my projects. Repositories containing code are currently set to private for R&D confidentiality.
 
 ## 🖥️ Table of Contents
 - [Pig Aggression Detection using CNN and image differentials](#pig-aggression)
