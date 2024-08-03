@@ -12,6 +12,8 @@ Hello, my name is Harry Aricibasi. I develop machine learning-based automated sy
 ### 📚 Projects
 
 Overview of my portfolio, where I showcase my [projects](https://github.com/HarryAricibasi/HarryAricibasi/blob/main/Portfolio.md).
+- Pig Aggression Detector using CNN and image differentials
+- Livestock Mounting Identifier using Mask R CNN and overlap
 
 ### 📝 Papers
 
