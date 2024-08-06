@@ -18,6 +18,6 @@ An overview of my projects. Repositories containing code are currently set to pr
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 📷 [Livestock Mounting Identification using Mask-R-CNN and overlap](https://github.com/HarryAricibasi/Livestock-Mounting-Identifier-using-Mask-R-CNN-and-overlap) | May 2023 | ResNetV2 (Mask-R-CNN), Vertical Occlusion, Mask Fluctuation | Developed an end-to-end solution to detect mounting behavior in boars to reduce boar taint as an alternative to castration. Utilized transfer learning to train a custom object detection model for real-time identification of pigs, leveraging vertical occlusion and mask fluctuation to recognize mounting behaviors. |
+| 📷 [Livestock Mounting Identification using Mask-R-CNN and overlap](https://github.com/HarryAricibasi/Livestock-Mounting-Identifier-using-Mask-R-CNN-and-overlap) | May 2024 | Python, Tensorflow, scikit-learn, OpenCV, Numpy, Matplotlib, Seaborn | Developed an end-to-end solution to detect mounting behavior in boars to reduce boar taint as an alternative to castration. Utilized transfer learning to train a custom object detection model for real-time identification of pigs, leveraging vertical occlusion and mask fluctuation to recognize mounting behaviors. |
 
 ***
