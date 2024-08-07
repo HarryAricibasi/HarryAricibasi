@@ -10,7 +10,7 @@ An overview of my projects. Repositories containing code are currently set to pr
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🐖 [Pig Aggression Detection using CNN and image differentials](https://github.com/HarryAricibasi/Pig-Aggression-Detector-using-CNN-and-image-differentials) | April 2022 | Python, Tensorflow, Keras, OpenCV, Pandas | Collaborated with Dr. Bergeron, Dr. Tulpan, and Jasmine Fraser to build a machine learning pipeline for pig aggression detection, improving animal welfare and production efficiency. Managed data collection and annotation, implemented video processing scripts, and developed the Pig Aggression Recognition Tool (PART) to transform raw videos into labeled demonstrations. Co-wrote and published an article in the Journal of Animal Science: https://doi.org/10.1093/jas/skad347 |
+| 🐖 [Pig Aggression Detection using CNN and image differentials](https://github.com/HarryAricibasi/HarryAricibasi/blob/c69f29dae24d99f86a66b4a96ff73c3cbac2549a/showcases/PigAggression.md) | April 2022 | Python, Tensorflow, Keras, OpenCV, Pandas | Collaborated with Dr. Bergeron, Dr. Tulpan, and Jasmine Fraser to build a machine learning pipeline for pig aggression detection, improving animal welfare and production efficiency. Managed data collection and annotation, implemented video processing scripts, and developed the Pig Aggression Recognition Tool (PART) to transform raw videos into labeled demonstrations. Co-wrote and published an article in the Journal of Animal Science: https://doi.org/10.1093/jas/skad347 |
 
 ***
 
