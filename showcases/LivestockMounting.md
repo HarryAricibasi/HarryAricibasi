@@ -1,5 +1,5 @@
 # Automatic Detection of Mounting Behavior in Boars Using Deep Learning
-![image](https://github.com/HarryAricibasi/HarryAricibasi/blob/c67eab64b371213d5d14c253c5bc5be8f1682617/images/mountingexample1.png)
+![image](https://github.com/HarryAricibasi/HarryAricibasi/blob/b05a6f94d837f4b8ecf934fb227f183c74fedc87/images/livestockmountingexample1.png)
 
 ## Project Overview
 
