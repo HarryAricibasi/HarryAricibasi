@@ -28,8 +28,8 @@ Overview of my portfolio, where I showcase my [projects](https://github.com/Harr
 
 ### 🎓 Education
 
-- Honours Bachelor of Science, Biomedical Science and Biotechnology @ University of Guelph
 - Master of Science, Animal Biosciences @ Centre for the Genetic Improvement of Livestock, University of Guelph
+- Honours Bachelor of Science, Biomedical Science and Biotechnology @ University of Guelph
 
 ### 🤝🏼 Connect
 
