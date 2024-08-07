@@ -13,7 +13,7 @@ Hello, my name is Harry Aricibasi. I develop machine learning-based automated sy
 
 Overview of my portfolio, where I showcase my [projects](https://github.com/HarryAricibasi/HarryAricibasi/blob/main/Portfolio.md).
 - [Pig Aggression Detector using CNN and image differentials](https://github.com/HarryAricibasi/HarryAricibasi/blob/c69f29dae24d99f86a66b4a96ff73c3cbac2549a/showcases/PigAggression.md)
-- Livestock Mounting Identifier using Mask R CNN and overlap
+- [Livestock Mounting Identifier using Mask R CNN and overlap](https://github.com/HarryAricibasi/HarryAricibasi/blob/052cce8fd147df012bab60762a9173695e49db1f/showcases/LivestockMounting.md)
 
 ### 📝 Papers
 
