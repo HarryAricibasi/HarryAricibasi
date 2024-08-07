@@ -35,3 +35,4 @@ Overview of my portfolio, where I showcase my [projects](https://github.com/Harr
 
 - [LinkedIn](https://www.linkedin.com/in/harryaricibasi)
 - [ResearchGate](https://www.researchgate.net/profile/Harry-Aricibasi)
+- [Medium](https://medium.com/@harryaricibasi)
