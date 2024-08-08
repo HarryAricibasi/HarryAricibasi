@@ -4,10 +4,10 @@
 
 Hello, my name is Harry Aricibasi. I develop machine learning-based automated systems to solve problems in agriculture and healthcare. I am especially passionate about leveraging computer vision to improve precision livestock farming.
 
-- Analyze and visualize data
-- Create custom machine learning models
-- Work with and present to stakeholders
-- Engineer user-friendly applications and dashboards
+- 🧐 Analyze and visualize data
+- ✨ Create custom machine learning models
+- 🗣️ Work with and present to stakeholders
+- 🏗️ Engineer user-friendly applications and dashboards
 
 ### 📚 Projects
 
