@@ -21,7 +21,7 @@ Overview of my portfolio, where I showcase my [projects](https://github.com/Harr
 
 ### 🛠️ Tools
 
-- Languages: Python, SQL
+- Languages: Python, SQL, R
 - Libraries: Pandas, Tensorflow, Keras, OpenCV, MatPlotLib, scikit-learn, seaborn
 - Visualization: PowerBI, Tableau
 - Other: Git, SCRUM
